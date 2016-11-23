@@ -48,6 +48,6 @@ Joi.validate('1 XX', Joi.number().msDuration()).error.message   // "value" must 
 ```
 
 # API
-See the [API Reference](https://github.com/tepez/joi-duration-extensions/blob/v1.0.0/API.md).
+See the [API Reference](https://github.com/tepez/joi-duration-extensions/blob/v1.0.1/API.md).
 
 Based on [hapijs/joi-date-extensions](https://github.com/hapijs/joi-date-extensions)
